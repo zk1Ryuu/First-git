@@ -3,5 +3,5 @@
 ## Primeiro GIT
 
 ```
-Apenas primeiro git meu de forma indepedente
+Apenas primeiro git meu de forma indepedente !
 ```
